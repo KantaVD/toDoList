@@ -1,0 +1,40 @@
+body {
+    width: 400px;
+    margin: auto;
+    background-color: aquamarine;
+}
+
+footer {
+    height: 20px;
+    bottom: 0px;
+    position: fixed;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    border-top: 1px solid grey;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+
+div {
+    display: inline;
+}
+
+img  {
+    height: 20px;
+    width:  20px;
+    float: right;
+}
+
+img:hover {
+    height: 25px;
+    width: 25px;
+}
+
+.hidden {
+    display: none;
+}
